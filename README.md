@@ -1,3 +1,4 @@
+LIVE LINK : https://myportfolio-theta-five-52.vercel.app/
 # Shaik Bavaji — Advanced 3D Developer & QA Portfolio
 
 An interactive, futuristic developer portfolio and QA telemetry dashboard designed for **Shaik Bavaji**, an AI & ML Engineering Student, QA / Software Testing Intern candidate, and Full-Stack Developer.
